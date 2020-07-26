@@ -1,0 +1,31 @@
+body{
+    background-color: #2b1a63;
+}
+
+.box{
+    background-color: transparent;
+    opacity: 0.5;
+    width: 400px;
+    height: auto;
+    padding: 100px;
+    margin-top:50px;
+    margin-left: auto;
+    margin-right: auto;
+    border:1px solid #2b1a63;
+    border-radius: 5px;
+    -webkit-box-shadow: 2px 1px 10px 7px #000000; 
+box-shadow: 2px 1px 10px 7px #000000;
+}
+h1{
+    text-align: center;
+    color: #fff;
+}
+#app{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+button{
+    background-color: #eca622;
+    color: #fff;
+}
